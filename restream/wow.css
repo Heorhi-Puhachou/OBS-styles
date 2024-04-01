@@ -1,0 +1,50 @@
+.chat-messages > .message-item:first-child {
+  Display: none;
+}
+
+.restream-embed-themes-chat-container_ac-odyssey-boxed .message-time {
+  Display: none;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .icon-platform-wrapper {
+  width: 2em;
+  height: 2em;
+}
+
+.message-sender {
+  font-size: 32px;
+}
+
+.message-text {
+  font-size: 32px;
+}
+
+.restream-embed-themes-chat-container_ac-odyssey-boxed .icon-platform {
+  height: 2em;
+  max-width: 2em;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-sender__inner {
+  font-size: 32px;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-time {
+  Display: none;
+
+}
+
+.restream-embed-themes-chat-container_wow-boxed .icon-platform {
+  min-height: 1.7em;
+  min-width: 1.7em;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-sender {
+  margin-left: 3px;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-info {
+  align-items: center;
+  display: flex;
+  margin-bottom: .4em;
+  margin-left: .6em;
+}

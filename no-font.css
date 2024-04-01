@@ -1,0 +1,62 @@
+img {
+  width: 40px;
+  height: 40px;
+}
+
+yt-live-chat-item-list-renderer {
+  background-color: #0f220f;
+}
+
+#author-name.yt-live-chat-author-chip {
+  box-sizing: border-box;
+  border-radius: 2px;
+  color: #bb255f;
+  font-weight: 500;
+
+}
+
+yt-live-chat-text-message-renderer {
+  line-height: 27px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  font-size: 25px;
+}
+
+yt-live-chat-author-chip[is-highlighted] #author-name.owner.yt-live-chat-author-chip, #author-name.owner.yt-live-chat-author-chip {
+  font-size: 24px;
+}
+
+#author-name.yt-live-chat-author-chip {
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-size: 24px;
+}
+
+yt-live-chat-text-message-renderer[author-is-owner] {
+  background-color: #0f220f;
+}
+
+yt-live-chat-author-chip[is-highlighted] #author-name.yt-live-chat-author-chip {
+  padding: 0px;
+}
+
+yt-live-chat-author-chip[is-highlighted] #author-name.owner.yt-live-chat-author-chip, #author-name.owner.yt-live-chat-author-chip {
+  background: transparent;
+  font-size: 25px;
+  color: #920def;
+}
+
+yt-live-chat-mode-change-message-renderer {
+  display: none;
+
+}
+
+#card.yt-live-chat-viewer-engagement-message-renderer {
+  display: none;
+}
+
+#reaction-control-panel.yt-reaction-control-panel-overlay-view-model {
+  display: none;
+}
