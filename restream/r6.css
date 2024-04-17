@@ -1,0 +1,18 @@
+.chat-messages > .message-item:first-child { Display:none; }
+
+.restream-embed-themes-chat-container_r6-boxed .message-time { Display:none; }
+
+.restream-embed-themes-chat-container_r6-boxed .icon-platform {
+  height: 1.6em;
+  max-width: 1.6em;
+  max-height: 1.6em;
+  width: 2em;
+}
+
+.restream-embed-themes-chat-container_r6-boxed .message-text__content {
+  font-size: 34px;
+}
+
+.restream-embed-themes-chat-container_r6-boxed .message-sender {
+  font-size: 32px;
+}
