@@ -1,0 +1,24 @@
+.chat-messages > .message-item:first-child {
+    Display: none;
+}
+
+.restream-embed-themes-chat-container_8-bit-compact .message-text {
+    font-size: 20px;
+    padding: 0px;
+}
+
+.restream-embed-themes-chat-container_8-bit-compact .message-sender {
+    font-size: 22px;
+    padding: 0px;
+}
+
+.restream-embed-themes-chat-container_8-bit-compact .icon-platform {
+    height: 0;
+}
+
+.restream-embed-themes-chat-container_8-bit-compact .message-info {
+    display: inline;
+    margin-left: -0;
+    padding-left: 0;
+    position: relative;
+}

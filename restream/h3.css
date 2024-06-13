@@ -1,0 +1,33 @@
+.chat-messages > .message-item:first-child {
+    Display: none;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .icon-platform-wrapper {
+    width: 2em;
+    height: 2em;
+}
+
+.message-sender {
+    font-size: 30px;
+}
+
+.message-text {
+    font-size: 30px;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-sender__inner {
+    font-size: 28px;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-time {
+    Display: none;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .icon-platform {
+    min-height: 1.7em;
+    min-width: 1.7em;
+}
+
+.restream-embed-themes-chat-container_wow-boxed .message-sender {
+    margin-left: 3px;
+}
